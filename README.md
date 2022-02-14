@@ -1,4 +1,4 @@
-# Computational Geometry Assignment
+# Computational Geometry
 
 ## Description
 My solutions to Computational Geometry Problems -
